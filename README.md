@@ -4,4 +4,4 @@ The phantom data was acquired using 3-echo rEPI with R=2. Under-sampling factor 
 
 # Executiong
 To run this example, download all files to a local folder, then run the script Joint_meRecon.m using MATLAB \
-The code has been tested using MATLAB 2022a. It should be compatible with a recent version of matlab (i.e., after R2019).
+The code has been tested using MATLAB 2022a.
